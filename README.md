@@ -1,4 +1,4 @@
-# Read Fast ⚡
+# Read Fast 
 
 > Transform your reading experience with bionic reading technology
 
@@ -10,14 +10,14 @@ Read Fast is a modern web application that helps users read faster and more effi
 
 ## ✨ Features
 
-- **📝 Text Conversion** - Convert any text into bionic reading format in real-time
-- **📄 File Support** - Convert PDF, EPUB, DOCX, and TXT files (for subscribed users)
-- **🌍 Multi-Language** - Support for 22 languages
-- **🔐 Google Authentication** - Easy sign-in with Google account
-- **💳 Subscription Plans** - Free, Pro, and Ultimate tiers with different features
-- **🎨 Modern UI** - Clean and responsive design with Tailwind CSS
-- **☁️ Cloud Storage** - Access your converted files from anywhere
-- **👥 Community** - Share and discover content with other users
+- **Text Conversion** - Convert any text into bionic reading format in real-time
+- **File Support** - Convert PDF, EPUB, DOCX, and TXT files (for subscribed users)
+- **Multi-Language** - Support for 22 languages
+- **Google Authentication** - Easy sign-in with Google account
+- **Subscription Plans** - Free, Pro, and Ultimate tiers with different features
+- **Modern UI** - Clean and responsive design with Tailwind CSS
+- **Cloud Storage** - Access your converted files from anywhere
+- **Community** - Share and discover content with other users
 
 ## 🚀 Tech Stack
 
